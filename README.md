@@ -84,7 +84,7 @@ Copy đoạn code này dán vào Dashboard -> Node Portal -> Enter Participation
 
     Get Test Gora
     
-Nếu không nhận được mã CODE về Mail, cứ bỏ qua bước này.
+Bạn nào trước đây điền form đăng kí sẽ nhận được mã để nhận token test.
 
     Add stake
     

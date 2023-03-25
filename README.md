@@ -99,3 +99,5 @@ Chạy node:
 Check log:
 
     docker logs -f goracle-nr
+
+BƯỚC CUỐI QUAN TRỌNG: TRÊN DASHBOARD DỰ ÁN NHÂN MỤC INCENTIVIZED TESTNET -> REGISTER -> CONFIRM BẰNG WALLET LÀ XONG.

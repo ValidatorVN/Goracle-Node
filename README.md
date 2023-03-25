@@ -66,6 +66,8 @@ Vào Dashboard dự án, kết nối ví:
     
 Lưu Ý: Đoạn này quan trọng, chờ cho nhận được token testnet rồi làm tiếp.
 
+    Check kiểm tra Coin nhận được chưa bằng cách vào Pera Wallet -> Setting -> Developer -> Node Setting -> Testnet -> Kiểm tra 
+
 4/ Quay lại màn hình cài Node; Dán địa chỉ ví vào dòng: 
 
     ENTER YOUR ACCOUNT ALGORAND WALLET:BL36IZCQTGWP4JFBWYCOUIUQBB4DKHJA7OQ6MQEHYNDKBZYJTQ

@@ -91,7 +91,11 @@ Bạn nào trước đây điền form đăng kí sẽ nhận được mã để
 Nhập số lượng: ví dụ 10.000
     
     Add stake
-    
+
+Faucet 2 lần vào Participation Address của bạn, ví dụ:
+
+    MCHKKD3P5PVNKAA5KUDHKRECZXPNEFCPF6GYOK2SKHMSWJKKRA5ZMLU454
+
 Chạy node:
 
     sudo goracle docker-start --background

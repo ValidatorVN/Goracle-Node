@@ -104,4 +104,8 @@ Check log:
 
     docker logs -f goracle-nr
 
+Backup goracle :    
+
+    cat  ~/.goracle
+
 BƯỚC CUỐI QUAN TRỌNG: TRÊN DASHBOARD DỰ ÁN NHÂN MỤC INCENTIVIZED TESTNET -> REGISTER -> CONFIRM BẰNG WALLET LÀ XONG.

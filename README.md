@@ -107,5 +107,8 @@ Check log:
 Backup goracle :    
 
     cat  ~/.goracle
+    
+Auto Restart
 
+    cd && echo '*/5 * * * * root docker ps | grep goracle-nr || docker start goracle-nr' >> /etc/crontab && /etc/init.d/cron restart
 BƯỚC CUỐI QUAN TRỌNG: TRÊN DASHBOARD DỰ ÁN NHÂN MỤC INCENTIVIZED TESTNET -> REGISTER -> CONFIRM BẰNG WALLET LÀ XONG.
